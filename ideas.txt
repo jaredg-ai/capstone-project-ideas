@@ -1,0 +1,4 @@
+Simple translation app.
+A daily planner.
+A D&D type/style game.
+card collecting manager.
