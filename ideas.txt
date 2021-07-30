@@ -4,6 +4,6 @@ A D&D type/style game.
 card collecting manager.
 
 
-The card collecting manager will allow users to input the different card information and keep them in track. Users can also create groups to put cards in. It will allow user to update and delete cards in thier library. They can also make decks. And the user will be able to group their cards in binders. AWS and S# are bucks that you can use to store images. Cloudinary is also another one to look into. Model the data out well. That will be incredibly important. Also maybe add a search feature.  
+The card collecting manager will allow users to input the different card information and keep them in track. Users can also create groups to put cards in. It will allow user to update and delete cards in thier library. They can also make decks. And the user will be able to group their cards in binders. AWS and S# are bucks that you can use to store images. Cloudinary is also another one to look into. Model the data out well. That will be incredibly important. Also maybe add a search feature. Go back to week 4 in foundations. study that again for this. 
 
 The D&D style/type game will be a choose your own adventure style game. It will be still background adn text. The different options will lead to different outcomes.
